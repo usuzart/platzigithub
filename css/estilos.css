@@ -1,5 +1,13 @@
 body{
+<<<<<<< HEAD
     color: deeppink;
     text-align: center;
     font-family: "Arial";
+=======
+    color: red;
+    text-align: center;
+    font-family: "Arial";
+    margin: 0%;
+    padding: auto;
+>>>>>>> cabecera
 }
