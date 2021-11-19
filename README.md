@@ -6,4 +6,4 @@ Blog de pruebas para el curos de git y github
 
  *creado por cesar giraldo
  *usuga
- 
+ *augusto
